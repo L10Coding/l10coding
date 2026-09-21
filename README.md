@@ -73,7 +73,7 @@ I'm especially interested in opportunities where I can bring my existing Microso
 * CompTIA Security+ — Certified
 * Google Cybersecurity Certificate
 * Microsoft SC-300 — In Progress
-* Microsoft AZ-900 — In Progress
+* Microsoft MS-900 — In Progress
 * Okta, SailPoint, and CyberArk on the roadmap
 
 ## 🤝 Let's Connect

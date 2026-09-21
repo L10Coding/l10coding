@@ -2,11 +2,19 @@
 
 ### Identity & Access Management | IAM Engineering | Microsoft Entra ID
 
-I'm an IT professional with over 14 years of experience as a SharePoint Administrator, now pivoting into Identity and Access Management (IAM) Engineering.
+SharePoint Administrator (14+ years) → Identity & Access Management Engineer
+
+I spent the last 14+ years managing identity and access inside enterprise SharePoint environments, and I'm now channeling that background into IAM engineering — Conditional Access, ABAC, RBAC, SSO/SAML, and lifecycle management in Microsoft Entra ID.
 
 Throughout my career, I've worked with enterprise Microsoft environments, administering identity and access for a SharePoint environment supporting 500+ users. My experience includes provisioning accounts, managing permissions and group memberships, troubleshooting access issues, and validating that users have the appropriate access to the resources they need.
 
 I've always been interested in the connection between technology, security, and making sure people have the right access at the right time. That interest has led me to focus on IAM, particularly identity lifecycle management, Microsoft Entra ID, and access control.
+
+SharePoint Administrator (14+ years) → Identity & Access Management Engineer
+
+I spent the last 14+ years managing identity and access inside enterprise SharePoint environments, and I'm now channeling that background into IAM engineering — Conditional Access, ABAC, RBAC, SSO/SAML, and lifecycle management in Microsoft Entra ID.
+
+
 
 ## 🔐 What I'm Working On
 
@@ -70,13 +78,15 @@ I'm especially interested in opportunities where I can bring my existing Microso
 
 * CompTIA Security+ — Certified
 * Google Cybersecurity Certificate
-* Microsoft SC-900 — In Progress
+* Microsoft SC-300 — In Progress
 * Microsoft AZ-900 — In Progress
+* Okta, SailPoint, and CyberArk on the roadmap
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with other cybersecurity professionals, IAM engineers, and people working with Microsoft identity and cloud technologies.
+Open to Junior–Mid IAM / Identity Engineer roles (AD + Entra ID, Conditional Access, SSO, hybrid identity).
 
+I'm always interested in connecting with other cybersecurity professionals, IAM engineers, and people working with Microsoft identity and cloud technologies.
 If you're interested in identity security, Microsoft Entra ID, or IAM projects, feel free to connect or check out my repositories!
 
 📫 How to reach me: altonastewart@gmail.com

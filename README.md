@@ -10,12 +10,6 @@ Throughout my career, I've worked with enterprise Microsoft environments, admini
 
 I've always been interested in the connection between technology, security, and making sure people have the right access at the right time. That interest has led me to focus on IAM, particularly identity lifecycle management, Microsoft Entra ID, and access control.
 
-SharePoint Administrator (14+ years) → Identity & Access Management Engineer
-
-I spent the last 14+ years managing identity and access inside enterprise SharePoint environments, and I'm now channeling that background into IAM engineering — Conditional Access, ABAC, RBAC, SSO/SAML, and lifecycle management in Microsoft Entra ID.
-
-
-
 ## 🔐 What I'm Working On
 
 I'm building hands-on IAM projects to deepen my understanding of identity security and demonstrate how identity and access controls work in practice.

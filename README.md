@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! I'm Alton A. Stewart! 👋
+I am a transitioning Identity and Access Management Engineer that has over 14+ years managing Identity and Access Management within the Microsoft 365 ecosystem.
+
 
 <!--
 **L10Coding/l10coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🛠️ My Toolbox
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![Python](https://shields.io)

@@ -1,10 +1,29 @@
- <#
+<#
 .SYNOPSIS
-    Remediates and verifies STIG WN11-CC-000326.
+    This PowerShell script remediates and verifies STIG WN11-CC-000326, by ensuring 'Turn on PowerShell Script Block Logging' is set to 'Enabled'.
+    It creates the required registry structure, applies the DWORD value, and verifies it.
 
-.DESCRIPTION
-    Ensures 'Turn on PowerShell Script Block Logging' is set to 'Enabled'.
-    Creates the required registry structure, applies the DWORD value, and verifies it.
+.NOTES
+    Author          : Alton Stewart
+    LinkedIn        : N/A
+    GitHub          : github.com/l10coding
+    Date Created    : 2026-10-08
+    Last Modified   : 2026-10-08
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN11-CC-000326
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\STIG-ID-WN11-CC-000326.ps1 
 #>
 
 $registryPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging"

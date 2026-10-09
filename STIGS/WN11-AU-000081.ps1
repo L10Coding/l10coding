@@ -2,6 +2,7 @@
 .SYNOPSIS
     This PowerShell script remediates and verifies STIG WN11-AU-000081.  Enforces 'Audit File Share' advanced tracking policy to log 'Failure' events
     using auditpol.exe and validates the active operating system configuration.
+    
 .NOTES
     Author          : Alton Stewart
     LinkedIn        : N/A

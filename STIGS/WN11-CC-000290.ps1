@@ -2,6 +2,7 @@
 .SYNOPSIS
     This PowerShell script remediates and verifies STIG WN11-CC-000290.  Enforces "High Level" 128-bit encryption for all Remote Desktop Services sessions.
     Creates the policy registry path if it is missing, sets the DWORD value, and verifies it.
+    
 .NOTES
     Author          : Alton Stewart
     LinkedIn        : N/A

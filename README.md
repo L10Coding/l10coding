@@ -25,10 +25,9 @@ My portfolio covers several areas of defensive security, from identity lifecycle
 | [Automated User Onboarding](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO) | Explores user onboarding and automated account creation to make provisioning more consistent and reduce manual work.|
 | [Microsoft Entra Conditional Access & MFA](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | Configures Conditional Access and Multi-Factor Authentication to explore how identity policies can strengthen authentication security. |
 
+These projects build on my professional experience managing user access and explore how identity controls can support secure, consistent access across an organization.
 
 </details>
-
-These projects build on my professional experience managing user access and explore how identity controls can support secure, consistent access across an organization.
 
 
 

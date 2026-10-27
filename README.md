@@ -1,14 +1,38 @@
 # Hi, I'm Alton A. Stewart 👋
 
-### Identity & Access Management | IAM Engineering | Microsoft Entra ID
+### Cybersecurity | Identity & Access Management | Vulnerability Management
 
-SharePoint Administrator (14+ years) → Identity & Access Management Engineer
-
-I spent the last 14+ years managing identity and access inside enterprise SharePoint environments, and I'm now channeling that background into IAM engineering — Conditional Access, ABAC, RBAC, SSO/SAML, and lifecycle management in Microsoft Entra ID.
-
-Throughout my career, I've worked with enterprise Microsoft environments, administering identity and access for a SharePoint environment supporting 500+ users. My experience includes provisioning accounts, managing permissions and group memberships, troubleshooting access issues, and validating that users have the appropriate access to the resources they need.
+I'm an IT professional with 14+ years of experience in SharePoint administration, Microsoft 365, and enterprise identity and access management. I'm now building on that experience to pursue opportunities in IAM Engineering and Cybersecurity, with a particular interest in Microsoft Entra ID, identity security, vulnerability management, and security operations.
 
 I've always been interested in the connection between technology, security, and making sure people have the right access at the right time. That interest has led me to focus on IAM, particularly identity lifecycle management, Microsoft Entra ID, and access control.
+
+My background has given me a strong foundation in user provisioning, permissions, group membership, access troubleshooting, and the principle of least privilege. I'm expanding that foundation through hands-on security projects that help me understand how organizations identify risks, investigate suspicious activity, remediate vulnerabilities, and protect systems.
+
+This portfolio documents what I'm learning, how I approach technical problems, and how I apply security concepts in practical lab environments.
+
+## 📂 Featured Projects
+
+My portfolio covers several areas of defensive security, from identity lifecycle management to vulnerability remediation and threat hunting.
+
+### 🔐 Identity & Access Management
+
+<details open>
+<summary><h3>🔑 Identity & Access Maangement</h3></summary>
+
+| Project | Overview |
+|---|---|
+| [ABAC for JML Lifecycle Management](https://github.com/L10Coding/ABAC_for_JML_LIfecycle_Management) | Explores Joiner-Mover-Leaver (JML) identity lifecycle management, attribute-based access control, and managing access as users join an organization, change roles, or leave.|
+| [Automated User Onboarding](https://github.com/felipearborestrepo/Okta-Salesforce-SAML-2.0-SSO) | Explores user onboarding and automated account creation to make provisioning more consistent and reduce manual work.|
+| [Microsoft Entra Conditional Access & MFA](https://github.com/felipearborestrepo/Okta-SCIM-2.0-Provisioning-Lab---Joiner---Mover---Leaver/blob/main/README.md) | Configures Conditional Access and Multi-Factor Authentication to explore how identity policies can strengthen authentication security. |
+
+
+</details>
+
+
+
+
+
+
 
 ## 🔐 What I'm Working On
 

@@ -30,7 +30,21 @@ These projects build on my professional experience managing user access and expl
 </details>
 
 
+<details>
+<summary><h3>⚠️ Vulnerability Management (Tenable Nessus)</h3></summary>
 
+**Program & Scanning**
+- [Vulnerability Management Program Implementation](https://github.com/L10Coding/Vulnerability_Management_Program_Implementation )
+- [Discovery Scan: Entire Subnet](https://github.com/L10Coding/Discovery_Scan__Entire_Subnet)
+- [Unauthenticated vs Authenticated Scans: Windows](https://github.com/L10Coding/Tenable_Unauthenticated_vs_Authenticated_Scans)
+- [Unauthenticated vs Authenticated Scans: Linux](https://github.com/L10Coding/Tenable_LINUX_Unauthenticated_vs_Authenticated_Scans)
+- [DISA STIG Template & Scan Execution](https://github.com/L10Coding/DISA_STIG_Vulnerability_Scan)
+
+**Remediation**
+- [Programmatic Vulnerability Remediation (PowerShell & Bash)](https://github.com/L10Coding/Programmatic__Vulnerability_Remediation_Windows11)
+- [Manual Vulnerability Creation & Remediation (Firefox / SMB)](https://github.com/felipearborestrepo/Manual-Vulnerability-Creation-Remediation-Project)
+
+</details>
 
 
 ## 🔐 What I'm Working On

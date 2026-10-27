@@ -28,7 +28,7 @@ My portfolio covers several areas of defensive security, from identity lifecycle
 
 </details>
 
-
+These projects build on my professional experience managing user access and explore how identity controls can support secure, consistent access across an organization.
 
 
 

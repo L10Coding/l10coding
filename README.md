@@ -31,18 +31,16 @@ These projects build on my professional experience managing user access and expl
 
 
 <details>
-<summary><h3>⚠️ Vulnerability Management (Tenable Nessus)</h3></summary>
+<summary><h3>⚠️ Vulnerability Management & Remediation </h3></summary>
 
-**Program & Scanning**
-- [Vulnerability Management Program Implementation](https://github.com/L10Coding/Vulnerability_Management_Program_Implementation )
-- [Discovery Scan: Entire Subnet](https://github.com/L10Coding/Discovery_Scan__Entire_Subnet)
-- [Unauthenticated vs Authenticated Scans: Windows](https://github.com/L10Coding/Tenable_Unauthenticated_vs_Authenticated_Scans)
-- [Unauthenticated vs Authenticated Scans: Linux](https://github.com/L10Coding/Tenable_LINUX_Unauthenticated_vs_Authenticated_Scans)
-- [DISA STIG Template & Scan Execution](https://github.com/L10Coding/DISA_STIG_Vulnerability_Scan)
-
-**Remediation**
-- [Programmatic Vulnerability Remediation (PowerShell & Bash)](https://github.com/L10Coding/Programmatic__Vulnerability_Remediation_Windows11)
-- [Manual Vulnerability Creation & Remediation (Firefox / SMB)](https://github.com/felipearborestrepo/Manual-Vulnerability-Creation-Remediation-Project)
+| Project | Overview |
+|---|---|
+| [Vulnerability Management Program Implementation](https://github.com/L10Coding/Vulnerability_Management_Program_Implementation )| Simulates the implementation of a vulnerability management program, from drafting policy and securing stakeholder buy-in to scanning, prioritizing findings, coordinating remediation, and validating results. |
+| [Programmatic Vulnerability Remediation (PowerShell)](https://github.com/L10Coding/Programmatic__Vulnerability_Remediation_Windows11)| Focuses on using scripts to remediate identified vulnerabilities more consistently and efficiently. |
+| [Manual Vulnerability Creation & Remediation (Windows 11)](https://github.com/L10Coding/Manual__Vulnerability_Remediation_Windows11) | Documents hands-on remediation activities and the process of correcting security weaknesses. |
+| [Unauthenticated vs Authenticated Scans: Windows](https://github.com/L10Coding/Tenable_Unauthenticated_vs_Authenticated_Scans) | Compares authenticated and unauthenticated vulnerability scans to understand differences in visibility and findings. |
+| [Unauthenticated vs Authenticated Scans: Linux](https://github.com/L10Coding/Tenable_LINUX_Unauthenticated_vs_Authenticated_Scans)| Compares scan results on an Ubuntu Linux virtual machine using authenticated and unauthenticated scanning methods.|
+| [DISA STIG Template & Scan Execution](https://github.com/L10Coding/DISA_STIG_Vulnerability_Scan) | Builds and runs a Tenable scan using DISA Security Technical Implementation Guide (STIG) checks against a Windows 11 virtual machine, then documents findings and remediation next steps. |
 
 </details>
 

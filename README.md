@@ -44,6 +44,18 @@ These projects build on my professional experience managing user access and expl
 
 </details>
 
+<details open>
+<summary><h3>🔑 Threat Hunting & Security Monitoring </h3></summary>
+
+| Project | Overview |
+|---|---|
+| [Threat Hunting: AI Assisted Exfiltration](https://github.com/L10Coding/Agent_Based_Monitoring__Windows) | Investigates a simulated Microsoft 365 security incident involving unusual access to sensitive documents, potential indirect prompt injection, and possible AI-assisted data exposure.|
+| [Agent-Based Monitoring for Windows](https://github.com/L10Coding/threat_hunting) | Explores endpoint monitoring on Windows systems, including how host activity can be observed to support security visibility and investigation.|
+
+These projects have helped me develop an investigative mindset: examining available evidence, understanding what activity may indicate, and documenting findings in a way that supports security decisions.
+
+</details>
+
 ## 🧰 Skills & Technologies
 
 

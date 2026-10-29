@@ -12,9 +12,7 @@ This portfolio documents what I'm learning, how I approach technical problems, a
 
 ## 📂 Featured Projects
 
-My portfolio covers several areas of defensive security, from identity lifecycle management to vulnerability remediation and threat hunting.
-
-### 🔐 Identity & Access Management
+My portfolio covers several areas of defensive security, from Identity Lifecycle Management to Vulnerability Management and Remediation and Threat Hunting.
 
 <details open>
 <summary><h3>🔑 Identity & Access Maangement</h3></summary>
@@ -41,6 +39,8 @@ These projects build on my professional experience managing user access and expl
 | [Unauthenticated vs Authenticated Scans: Windows](https://github.com/L10Coding/Tenable_Unauthenticated_vs_Authenticated_Scans) | Compares authenticated and unauthenticated vulnerability scans to understand differences in visibility and findings. |
 | [Unauthenticated vs Authenticated Scans: Linux](https://github.com/L10Coding/Tenable_LINUX_Unauthenticated_vs_Authenticated_Scans)| Compares scan results on an Ubuntu Linux virtual machine using authenticated and unauthenticated scanning methods.|
 | [DISA STIG Template & Scan Execution](https://github.com/L10Coding/DISA_STIG_Vulnerability_Scan) | Builds and runs a Tenable scan using DISA Security Technical Implementation Guide (STIG) checks against a Windows 11 virtual machine, then documents findings and remediation next steps. |
+
+I’m interested in the full vulnerability management lifecycle—not just identifying weaknesses, but understanding their impact, choosing appropriate remediation steps, and verifying whether those steps resolved the findings.
 
 </details>
 

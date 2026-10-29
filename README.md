@@ -63,7 +63,7 @@ These projects build on my professional experience managing user access and expl
 
 ## 🎯 Career Focus
 
-Cybersecurity enthusiast and curious tinkerer that enjoys working in the Identity & Access Management Engineering sub-space.  I'm particularly interested in:
+Cybersecurity enthusiast with a deep love for the defensive side, and curious tinkerer that enjoys working in the Identity & Access Management Engineering sub-space.  I'm particularly interested in:
 
 * Microsoft Entra ID and Active Directory
 * Identity lifecycle management and JML automation
@@ -77,7 +77,7 @@ I enjoy troubleshooting technical problems, documenting solutions, and understan
 
 ## 📜 Certifications & Learning
 
-* CompTIA Security+ — Certified
+* CompTIA Security+ Certified
 * Google Cybersecurity Certificate
 * Microsoft SC-300 — In Progress
 * Microsoft MS-900 — In Progress

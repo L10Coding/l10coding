@@ -31,7 +31,7 @@ These projects build on my professional experience managing user access and expl
 
 
 <details>
-<summary><h3>⚠️ Vulnerability Management & Remediation </h3></summary>
+<summary><h3>🛡️ Vulnerability Management & Remediation </h3></summary>
 
 | Project | Overview |
 |---|---|
@@ -45,7 +45,7 @@ These projects build on my professional experience managing user access and expl
 </details>
 
 <details open>
-<summary><h3>🔑 Threat Hunting & Security Monitoring </h3></summary>
+<summary><h3> 🔎 Threat Hunting & Security Monitoring </h3></summary>
 
 | Project | Overview |
 |---|---|
